@@ -29,4 +29,5 @@ override.tf.json
 # example: *tfplan*
 */terragrunt-debug.tfvars.json
 */terragrunt.hcl/*
+*.terragrunt-cache/
 *.terraform.lock.hcl
