@@ -1,0 +1,3 @@
+locals {
+    team = "team1"
+}
